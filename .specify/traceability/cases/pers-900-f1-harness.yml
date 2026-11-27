@@ -1,0 +1,27 @@
+{
+  "case_key": "pers-900-f1-harness",
+  "case_type": "idea",
+  "reviewed_baseline_sha": "b72ae29be04566d2adab9a55020e0f09c4110702",
+  "acceptance_ids": [
+    "IDEA-1",
+    "IDEA-2",
+    "IDEA-3",
+    "IDEA-4",
+    "IDEA-5"
+  ],
+  "approved_check_ids": [
+    "IDEA-1",
+    "IDEA-2",
+    "IDEA-3",
+    "IDEA-4",
+    "IDEA-5"
+  ],
+  "allowed_paths": [
+    ".specify/assessments/pers-900-f1-harness/intake.md",
+    ".specify/assessments/pers-900-f1-harness/research.md",
+    ".specify/assessments/pers-900-f1-harness/problem.md",
+    ".specify/assessments/pers-900-f1-harness/concept.md",
+    ".specify/assessments/pers-900-f1-harness/decision.md",
+    ".specify/traceability/cases/pers-900-f1-harness.yml"
+  ]
+}
