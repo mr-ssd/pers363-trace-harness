@@ -1,6 +1,6 @@
 services:
   pi-db:
-    image: mariadb:10.11
+    image: mariadb:13.0
     ports:
       - '3306:3306'
     environment:
@@ -31,7 +31,7 @@ services:
     depends_on:
       - pi-db
   wp-db:
-    image: mariadb:10.11
+    image: mariadb:13.0
     ports:
       - '3307:3306'
     environment:
@@ -42,7 +42,7 @@ services:
     volumes:
       - wp_db_data:/var/lib/mysql
   wp:
-    image: wordpress:6
+    image: wordpress:7
     ports:
       - '8081:80'
     depends_on:
