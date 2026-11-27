@@ -291,7 +291,7 @@
     "opencode",
     "omp"
   ],
-  "runbook_version": "1.0.0",
+  "runbook_version": "1.0.4",
   "upstream_commit": "6ba8beefff8d6408cadd62038e92d459093e33a8",
   "upstream_url": "https://github.com/github/spec-kit"
 }
