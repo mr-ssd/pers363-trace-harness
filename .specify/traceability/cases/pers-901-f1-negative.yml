@@ -1,0 +1,27 @@
+{
+  "case_key": "pers-901-f1-negative",
+  "case_type": "idea",
+  "reviewed_baseline_sha": "b72ae29be04566d2adab9a55020e0f09c4110702",
+  "acceptance_ids": [
+    "IDEA-1",
+    "IDEA-2",
+    "IDEA-3",
+    "IDEA-4",
+    "IDEA-5"
+  ],
+  "approved_check_ids": [
+    "IDEA-1",
+    "IDEA-2",
+    "IDEA-3",
+    "IDEA-4",
+    "IDEA-5"
+  ],
+  "allowed_paths": [
+    ".specify/assessments/pers-901-f1-negative/intake.md",
+    ".specify/assessments/pers-901-f1-negative/research.md",
+    ".specify/assessments/pers-901-f1-negative/problem.md",
+    ".specify/assessments/pers-901-f1-negative/concept.md",
+    ".specify/assessments/pers-901-f1-negative/decision.md",
+    ".specify/traceability/cases/pers-901-f1-negative.yml"
+  ]
+}
